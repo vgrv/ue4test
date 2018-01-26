@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameDesign1-790.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1Character.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1GameMode.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1HUD.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1Projectile.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\Pickup.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1.init.gen.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1Character.gen.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1GameMode.gen.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1HUD.gen.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\GameDesign1Projectile.gen.cpp.obj"
+"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\Pickup.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\GameDesign1\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Unreal\GameDesign1\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameDesign1-790.lib"

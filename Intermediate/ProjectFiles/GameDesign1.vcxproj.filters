@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameDesign1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{922FC089-B1F3-4203-B7CC-63C2A58C82DB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameDesign1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameDesign1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{08F43B43-ECB8-46F6-954C-C4EE0625C796}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameDesign1">
+      <UniqueIdentifier>{26070708-1D11-468A-BFEE-163A7C815262}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameDesign1\GameDesign1.Build.cs">
+      <Filter>Source\GameDesign1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameDesign1\GameDesign1.cpp">
+      <Filter>Source\GameDesign1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameDesign1\GameDesign1.h">
+      <Filter>Source\GameDesign1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameDesign1\GameDesign1Character.cpp">
+      <Filter>Source\GameDesign1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameDesign1\GameDesign1Character.h">
+      <Filter>Source\GameDesign1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameDesign1\GameDesign1GameMode.cpp">
+      <Filter>Source\GameDesign1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameDesign1\GameDesign1GameMode.h">
+      <Filter>Source\GameDesign1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameDesign1\GameDesign1HUD.cpp">
+      <Filter>Source\GameDesign1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameDesign1\GameDesign1HUD.h">
+      <Filter>Source\GameDesign1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameDesign1\GameDesign1Projectile.cpp">
+      <Filter>Source\GameDesign1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameDesign1\GameDesign1Projectile.h">
+      <Filter>Source\GameDesign1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\GameDesign1\Public">
+      <UniqueIdentifier>{5766c831-7857-46a9-bd0c-ad4759d6ce3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameDesign1\Private">
+      <UniqueIdentifier>{3441a542-cae9-4d13-88b3-55a9b95c3c09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\GameDesign1\Public\Pickup.h">
+      <Filter>Source\GameDesign1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\GameDesign1\Private\Pickup.cpp">
+      <Filter>Source\GameDesign1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
